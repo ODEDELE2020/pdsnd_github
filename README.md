@@ -15,3 +15,5 @@ Chicago, New York City, and Washington, DC Datasets.
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Additional Info
+Randomly selected data for the first six months of 2017 are provided for all three cities.
