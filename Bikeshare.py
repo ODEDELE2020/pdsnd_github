@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 
 # Bike Share Analysis Project
+=======
+# Bike Share Data Project
+
+>>>>>>> refactoring
 
 import time
 import pandas as pd
